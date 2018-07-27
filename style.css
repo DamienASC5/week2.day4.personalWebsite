@@ -1,0 +1,32 @@
+.Headers{
+    font-family: 'Lato', sans-serif;
+    color: whitesmoke;
+    font-size: 100px;
+    text-align: center;
+}
+
+.SubHeading{
+    font-family:'Cormorant Garamond', serif;
+    color:rgba(50, 177, 160, 0.979);
+    font-size: 75px;
+    padding-left: 60px;
+}
+
+#AboutMeText{
+    font-family:'Merienda', cursive;
+    font-size: 30px;
+    color: whitesmoke;
+    background: rgba(0, 0, 0, 0.527);
+    text-align: center;
+border-radius: 30%;
+display:flex;
+
+}
+.Info{
+    font-size: 30px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    width:500px;
+}
